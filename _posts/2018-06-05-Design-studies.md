@@ -3,11 +3,9 @@ layout: post
 title: Design Studies
 ---
 
-How many design alternatives have you tried before picking your solution?
+How many design alternatives have you tried before picking your solution? If you are a code designer, I expect your answer to be very close to 1. Most other designers would find this unthinkable.
 
-I expect your answer to be very close to 1.
-
-Any other designer would be disqualified as a professional. Why? Because your brain is lazy and will pick the path it knows best. This phenomenon is called "satisficing", but in software design we often call it "intuition", or "past experience".
+Why? Because your brain is lazy and will pick the path it knows best. This phenomenon is called "satisficing", but in software design we often call it "intuition", or "past experience".
 
 Intuition is great because it helps you find solutions fast. But how do you ensure that your intuition gives an appropriate answer? There's only one way: by developing it. Your intuition is built upon past examples. 
 
