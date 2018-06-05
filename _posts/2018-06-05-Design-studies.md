@@ -1,9 +1,7 @@
-------
-
+---
 layout: post
 title: Design Studies
-
-------
+---
 
 How many design alternatives have you tried before picking your solution?
 
