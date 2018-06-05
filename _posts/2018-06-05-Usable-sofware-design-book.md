@@ -1,11 +1,9 @@
-----
-
+---
 layout: post
 title: The Usable Software Design Book
+---
 
-----
-
-[!images/Usable-software-design.png](Usable software design)
+![images/Usable-software-design.png](Usable software design)
 
 I got the idea of Usable Software Design through a number of conversation while seeking to define what is good software design.
 
