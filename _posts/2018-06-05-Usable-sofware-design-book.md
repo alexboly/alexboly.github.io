@@ -3,7 +3,7 @@ layout: post
 title: The Usable Software Design Book
 ---
 
-![Usable Software Design Book](({{ "/images/Usable-software-design.png" | absolute_url }}))
+![Usable Software Design Book]({{ "/images/Usable-software-design.png" | absolute_url }})
 
 I got the idea of Usable Software Design through a number of conversation while seeking to define what is good software design.
 
