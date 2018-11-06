@@ -7,5 +7,5 @@ I got the idea of Usable Software Design through a number of conversation while 
 
 ![Usable Software Design Book]({{ "/images/Usable-software-design.png" | absolute_url }})
 
-See the video and the book details on [https://leanpub.com/usablesoftwaredesign](leanpub)
+See the video and the book details on [leanpub](https://leanpub.com/usablesoftwaredesign)
 
